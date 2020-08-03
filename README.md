@@ -3,7 +3,7 @@
 [s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
 [li]: https://raw.githubusercontent.com/matt77hias/JavaSocketExperiments/master/LICENSE.txt
 
-# JavaSocketExperiments
+# Java Socket Experiments
 Course Computer Networks: Java Socket Experiments
 
 **Team**:
